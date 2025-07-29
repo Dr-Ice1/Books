@@ -10,7 +10,7 @@
 ## Church Fathers
 
 ### Core Writings
-- [ ] "_Book of Questions_" by St. Gregory of Tatev [󰌷](https://www.amazon.nl/gp/product/B09QNW7QGX/ref=ox_sc_saved_title_1?smid=A17D2BRD4YMT0X&psc=1)
+- [ ] "_Book of Questions_" by St. Gregory of Tatev [󰌷🔗](https://www.amazon.nl/gp/product/B09QNW7QGX/ref=ox_sc_saved_title_1?smid=A17D2BRD4YMT0X&psc=1)
 - [ ] "_First and Second Apologies_" by St. Justin Martyr [󰌷](https://www.amazon.nl/gp/product/B0DZVKC7XM/ref=ox_sc_saved_title_3?smid=A17D2BRD4YMT0X&psc=1)
 - [ ] "_Against Heresies_" by St. Irenaeus [󰌷](https://www.amazon.nl/gp/product/163174061X/ref=ox_sc_saved_title_4?smid=A17D2BRD4YMT0X&psc=1)
 
